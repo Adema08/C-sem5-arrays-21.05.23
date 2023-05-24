@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Я богатый разработчик\C# 5sem arrays\task 33\obj\Debug\net7.0\task 33.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Я богатый разработчик\C# 5sem arrays\task 33\obj\Debug\net7.0\task 33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Я богатый разработчик\C# 5sem arrays\task 33\obj\Debug\net7.0\task 33.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Я богатый разработчик\C# 5sem arrays\task 33\obj\Debug\net7.0\task 33.AssemblyInfo.cs
+C:\Users\User\Desktop\Я богатый разработчик\C# 5sem arrays\task 33\obj\Debug\net7.0\task 33.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Я богатый разработчик\C# 5sem arrays\task 33\bin\Debug\net7.0\task 33.exe
+C:\Users\User\Desktop\Я богатый разработчик\C# 5sem arrays\task 33\bin\Debug\net7.0\task 33.deps.json
+C:\Users\User\Desktop\Я богатый разработчик\C# 5sem arrays\task 33\bin\Debug\net7.0\task 33.runtimeconfig.json
+C:\Users\User\Desktop\Я богатый разработчик\C# 5sem arrays\task 33\bin\Debug\net7.0\task 33.dll
+C:\Users\User\Desktop\Я богатый разработчик\C# 5sem arrays\task 33\bin\Debug\net7.0\task 33.pdb
+C:\Users\User\Desktop\Я богатый разработчик\C# 5sem arrays\task 33\obj\Debug\net7.0\task 33.dll
+C:\Users\User\Desktop\Я богатый разработчик\C# 5sem arrays\task 33\obj\Debug\net7.0\refint\task 33.dll
+C:\Users\User\Desktop\Я богатый разработчик\C# 5sem arrays\task 33\obj\Debug\net7.0\task 33.pdb
+C:\Users\User\Desktop\Я богатый разработчик\C# 5sem arrays\task 33\obj\Debug\net7.0\task 33.genruntimeconfig.cache
+C:\Users\User\Desktop\Я богатый разработчик\C# 5sem arrays\task 33\obj\Debug\net7.0\ref\task 33.dll
